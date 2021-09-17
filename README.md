@@ -8,6 +8,7 @@ Dr.rer.nat. Wiwit Suryanto, M.Si
 
 
 **Waktu:**
+
 Sesi 1: 18 September 2021
 
 Sesi 2: 25 September 2021
@@ -35,7 +36,7 @@ Laptop ataupun *Personal Computer* (PC) yang terkoneksi dengan internet.
 | **Topik** |
 |:-----------|
 | **PRESESI: 17 September 2021** |
-| *[Instalasi Python dalam Miniconda](https://nbviewer.jupyter.org/github/anangsahroni/hmgi_longcourse_python/blob/main/0_Instalasi_Miniconda_dan_Modul.ipynb)* |
+| *[Instalasi Python dalam Miniconda](https://nbviewer.jupyter.org/github/anangsahroni/hmgi_longcourse_python/blob/main/0_Instalasi_Miniconda_dan_Modul.ipynb)* atau [PDF](https://github.com/anangsahroni/hmgi_longcourse_python/blob/main/pdf/0_Instalasi_Miniconda_dan_Modul%20-%20Jupyter%20Notebook.pdf)|
 | 1. Instalasi Miniconda pada Windows, Linux, ataupun MacOS |
 | 2. Menjalankan Python Console melalui Anaconda Prompt |
 | 3. Menulis kode dalam editor (Integrated Development Environment/IDE) kode dan menjalankannya melalui Anaconda Prompt
@@ -49,7 +50,7 @@ Laptop ataupun *Personal Computer* (PC) yang terkoneksi dengan internet.
 | **EXERCISE:** Membuat panduan instalasi Miniconda pada Jupyter Notebook dan menambahkannya di repositori Github individu. |
 ||
 | **SESI 1: 18 September 2021** |
-| *Introduction to geophysical programming using python: basic python for seismology [Materi 1](https://nbviewer.jupyter.org/github/anangsahroni/hmgi_longcourse_python/blob/main/1_Basic_Python_for_Seismology_1.ipynb) dan [Materi 2](https://nbviewer.jupyter.org/github/anangsahroni/hmgi_longcourse_python/blob/main/1_Basic_Python_for_Seismology_2.ipynb)*|
+| *Introduction to geophysical programming using python: basic python for seismology [Materi 1](https://nbviewer.jupyter.org/github/anangsahroni/hmgi_longcourse_python/blob/main/1_Basic_Python_for_Seismology_1.ipynb) ([PDF](https://github.com/anangsahroni/hmgi_longcourse_python/blob/main/pdf/1_Basic_Python_for_Seismology_1%20-%20Jupyter%20Notebook.pdf)) dan [Materi 2](https://nbviewer.jupyter.org/github/anangsahroni/hmgi_longcourse_python/blob/main/1_Basic_Python_for_Seismology_2.ipynb) ([PDF](https://github.com/anangsahroni/hmgi_longcourse_python/blob/main/pdf/1_Basic_Python_for_Seismology_2%20-%20Jupyter%20Notebook.pdf))*|
 | 1. Membaca data katalog menggunakan `pandas` |
 | 2. Membedakan jenis-jenis data antar kolom pada katalog (`String`, `Integer`, dan `Float`) |
 | 3. Mengambil salah satu kolom ke dalam bentuk `List` dan mempelajari metode-metode pada `List` (`indexing`, `slicing`, `append`, dan lain sebagainya) |
