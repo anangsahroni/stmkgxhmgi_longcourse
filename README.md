@@ -34,12 +34,12 @@ Laptop ataupun *Personal Computer* (PC) yang terkoneksi dengan internet.
 | **Topik** |
 |:-----------|
 | **PRESESI: 17 September 2021** |
-| *[Instalasi Python dalam Miniconda](https://nbviewer.jupyter.org/github/anangsahroni/geoscope-geohazard-workshop/blob/main/1_Instalasi_Python_dalam_Miniconda.ipynb)* (atau [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anangsahroni/geoscope-geohazard-workshop/HEAD))|
+| *[Instalasi Python dalam Miniconda](https://nbviewer.jupyter.org/github/anangsahroni/hmgi_longcourse_python/blob/main/0_Instalasi_Miniconda_dan_Modul.ipynb)* |
 | 1. Instalasi Miniconda pada Windows, Linux, ataupun MacOS |
 | 2. Menjalankan Python Console melalui Anaconda Prompt |
 | 3. Menulis kode dalam editor (Integrated Development Environment/IDE) kode dan menjalankannya melalui Anaconda Prompt
 | 4. Pengenalan IDE dan beberapa contohnya
-| 5. Menginstall dan menjalankan Jupyter Notebook
+| 5. Menginstall `pandas`, `numpy`, `matplotlib`, `scipy`, `Cartopy`, dan `notebook` menggunakan Anaconda Prompt pada *virtual environment* 
 | 6. Menjalankan kode sederhana di Jupyter Notebook
 | 7. Memanggil fungsi bawaan python (`math`), mencoba, dan memanggil bantuan (`help`) untuk masing-masing fungsi
 | 8. Memberikan catatan dan gambar dalam bentuk `Markdown` di Jupyter Notebook
@@ -48,21 +48,18 @@ Laptop ataupun *Personal Computer* (PC) yang terkoneksi dengan internet.
 | **EXERCISE:** Membuat panduan instalasi Miniconda pada Jupyter Notebook dan menambahkannya di repositori Github individu. |
 ||
 | **SESI 1: 18 September 2021** |
-| *[introduction to geophysical programming using python: basic python for seismology](https://nbviewer.jupyter.org/github/anangsahroni/geoscope-geohazard-workshop/blob/main/2_Materi_Dasar_Python.ipynb)* (atau [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anangsahroni/geoscope-geohazard-workshop/HEAD))|
-| 1. Membuat dan mengaktifkan *virtual environment* (opsional) |
-| 2. Menginstall `pandas`, `numpy`, `matplotlib`, `scipy`, `Cartopy`, dan `notebook` menggunakan Anaconda Prompt pada *virtual environment* |
-| 3. Membaca data katalog menggunakan `pandas` |
-| 4. Membedakan jenis-jenis data antar kolom pada katalog (`String`, `Integer`, dan `Float`) |
-| 5. Mengambil salah satu kolom ke dalam bentuk `List` dan mempelajari metode-metode pada `List` (`indexing`, `slicing`, `append`, dan lain sebagainya) |
-| 6. Menggunakan `for` *loop* untuk mengkonversi format `String` menjadi `datetime` untuk waktu kejadian |
-| 7. Menggunakan `conditional` untuk memfilter katalog berdasarkan besar magnitudo atau waktu |
-| 8. Membuat fungsi untuk memfilter katalog berdasarkan kedalaman dan menyimpannya menjadi modul siap impor |
-| 9. Membuat plot magnitudo dengan jumlah kejadian dan waktu kejadian (dapat berupa G-R Plot atau plot sederhana) |
-| 10. Mengkombinasikan `List` latitude dan longitude untuk mengeplot episenter |
-| 11. Mengintegrasikan kolom magnitude untuk membedakan ukuran titik titik plot |
-| 12. Mengintegrasikan kolom kedalaman untuk membedakan warna titik plot |
-| 13. Menambahkan *basemap* pada plot Menggunakan `Cartopy` |
-| 14. *Gridding*, Interpolasi, dan membuat kontur kedalaman menggunakan `scipy` (opsional) |
+| *Introduction to geophysical programming using python: basic python for seismology [Materi 1](https://nbviewer.jupyter.org/github/anangsahroni/hmgi_longcourse_python/blob/main/1_Basic_Python_for_Seismology_1.ipynb) dan [Materi 2](https://nbviewer.jupyter.org/github/anangsahroni/hmgi_longcourse_python/blob/main/1_Basic_Python_for_Seismology_2.ipynb)*|
+| 1. Membaca data katalog menggunakan `pandas` |
+| 2. Membedakan jenis-jenis data antar kolom pada katalog (`String`, `Integer`, dan `Float`) |
+| 3. Mengambil salah satu kolom ke dalam bentuk `List` dan mempelajari metode-metode pada `List` (`indexing`, `slicing`, `append`, dan lain sebagainya) |
+| 4. Menggunakan `for` *loop* untuk mengkonversi format `String` menjadi `datetime` untuk waktu kejadian |
+| 5. Menggunakan `conditional` untuk memfilter katalog berdasarkan besar magnitudo atau waktu |
+| 6. Membuat fungsi untuk memfilter katalog berdasarkan kedalaman dan menyimpannya menjadi modul siap impor |
+| 7. Membuat plot magnitudo dengan jumlah kejadian dan waktu kejadian (dapat berupa G-R Plot atau plot sederhana) |
+| 8. Mengkombinasikan `List` latitude dan longitude untuk mengeplot episenter |
+| 9. Mengintegrasikan kolom magnitude untuk membedakan ukuran titik titik plot |
+| 10. Mengintegrasikan kolom kedalaman untuk membedakan warna titik plot |
+| 11. Menambahkan *basemap* pada plot Menggunakan `Cartopy` |
 | **EXERCISE:** Membaca file titik stasiun, memfilter berdasarkan network, dan mengeplotnya bersama dengan titik-titik gempa. |
 ||
 | **SESI 2: 25 September 2021** |
