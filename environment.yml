@@ -1,0 +1,8 @@
+
+name: course-environment
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - pandas
+  - obspy
