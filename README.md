@@ -7,9 +7,9 @@ Dr.rer.nat. Wiwit Suryanto, M.Si
 
 
 
-**Waktu:**  
-Sesi 1: 18 September 2021  
-Sesi 2: 25 September 2021  
+**Waktu:**
+Sesi 1: 18 September 2021
+Sesi 2: 25 September 2021
 
 **Tempat:**
 Zoom Meeting
@@ -35,8 +35,8 @@ Laptop ataupun *Personal Computer* (PC) yang terkoneksi dengan internet.
 |:-----------|
 | **PRESESI: 17 September 2021** |
 | *[Instalasi Python dalam Miniconda](https://nbviewer.jupyter.org/github/anangsahroni/geoscope-geohazard-workshop/blob/main/1_Instalasi_Python_dalam_Miniconda.ipynb)* (atau [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anangsahroni/geoscope-geohazard-workshop/HEAD))|
-| 1. Instalasi Miniconda pada Windows, Linux, ataupun MacOS |  
-| 2. Menjalankan Python Console melalui Anaconda Prompt |  
+| 1. Instalasi Miniconda pada Windows, Linux, ataupun MacOS |
+| 2. Menjalankan Python Console melalui Anaconda Prompt |
 | 3. Menulis kode dalam editor (Integrated Development Environment/IDE) kode dan menjalankannya melalui Anaconda Prompt
 | 4. Pengenalan IDE dan beberapa contohnya
 | 5. Menginstall dan menjalankan Jupyter Notebook
@@ -81,7 +81,7 @@ Software-software yang dibutuhkan tersebut **sudah harus diinstall sebelum prose
 Peserta workshop dianjurkan mendaftarkan akun GitHub melalui [Daftar Github](http://github.com)
 
 ## Bacaan Tambahan:
-Peserta dapat belajar pada Lesson di [Software Carpentry](https://software-carpentry.org/lessons/) dengan materi yang mendalam dan metode yang sama yaitu learning by doing. 
+Peserta dapat belajar pada Lesson di [Software Carpentry](https://software-carpentry.org/lessons/) dengan materi yang mendalam dan metode yang sama yaitu learning by doing.
 
 ## *Acknowledgment*
 Panduan ini disusun terinspirasi dari materi pada [Software Carpentry](https://software-carpentry.org/lessons/) dan panduan workshop Leonardo Uieda yang diunggah pada [repositori](https://github.com/leouieda/python-hawaii-2017) serta Lisa Itauxe [Python for ES Student](https://github.com/ltauxe/Python-for-Earth-Science-Students) berikut ini.
