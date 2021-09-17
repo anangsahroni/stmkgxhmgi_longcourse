@@ -1,0 +1,19 @@
+name: envcourse
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - python>=3.6
+  - notebook
+  - rise
+  - matplotlib
+  - numpy
+  - scikit-image
+  - folium
+  - geopandas
+  - fiona
+  - shapely
+  - iris
+  - pandas
+  - scipy
+  - obspy
