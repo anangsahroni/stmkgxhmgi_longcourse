@@ -1,5 +1,5 @@
 ![header_image](./figures/longcourse_header_cropped_sm.png)
-# HMGI Long Course
+# Long Course
 ## *"Geophysical Python for Seismic Data Analysis"*
 
 **Instruktur:**
