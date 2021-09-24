@@ -7,3 +7,4 @@ dependencies:
   - pandas
   - obspy
   - rasterio
+  - tqdm
