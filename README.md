@@ -5,6 +5,8 @@
 **Instruktur:**
 Dr.rer.nat. Wiwit Suryanto, M.Si
 
+**Dipersiapkan oleh:**
+Anang Sahroni
 
 
 **Waktu:**
@@ -66,7 +68,9 @@ Laptop ataupun *Personal Computer* (PC) yang terkoneksi dengan internet.
 ||
 | **SESI 2: 25 September 2021** |
 | *[Source Mechanism and processing seismic data with python : Determine earthquake epicenter, hypocenter, and type of P Wave]|
-| TBA |
+| 1. Menentukan episenter dengan metode lingkaran [Materi](https://nbviewer.jupyter.org/github/anangsahroni/stmkgxhmgi_longcourse/blob/main/2_Earthquake_Source_Simple_1.ipynb)|
+| 2. Menentukan hiposenter dengan metode Geiger dan probabilistik [Materi 1](https://nbviewer.jupyter.org/github/anangsahroni/stmkgxhmgi_longcourse/blob/main/2_Earthquake_Source_Simple_2_1.ipynb), [Materi 2](https://nbviewer.jupyter.org/github/anangsahroni/stmkgxhmgi_longcourse/blob/main/2_Earthquake_Source_Simple_2_2.ipynb)|
+| 3. Pengenalan pengolahan waveform dengan `obspy` [Materi](https://nbviewer.jupyter.org/github/anangsahroni/stmkgxhmgi_longcourse/blob/main/2_Earthquake_Source_Simple_3.ipynb)|
 ||
 
 
@@ -82,6 +86,6 @@ Peserta workshop dianjurkan mendaftarkan akun GitHub melalui [Daftar Github](htt
 ## Bacaan Tambahan:
 Peserta dapat belajar pada Lesson di [Software Carpentry](https://software-carpentry.org/lessons/) dengan materi yang mendalam dan metode yang sama yaitu learning by doing.
 
-## *Acknowledgment*
-Panduan ini disusun terinspirasi dari materi pada [Software Carpentry](https://software-carpentry.org/lessons/) dan panduan workshop Leonardo Uieda yang diunggah pada [repositori](https://github.com/leouieda/python-hawaii-2017) serta Lisa Itauxe [Python for ES Student](https://github.com/ltauxe/Python-for-Earth-Science-Students) berikut ini.
+## Referensi
+Panduan ini disusun terinspirasi dari materi pada [Software Carpentry](https://software-carpentry.org/lessons/), materi inversi hiposenter probabilistik Igel & Geßele di [Seismo Live](https://krischer.github.io/seismo_live_build/html/Seismic%20Inverse%20Problems/Earthquake%20Location/el_hypocenter_solution_wrapper.html),panduan workshop Leonardo Uieda pada [repositori](https://github.com/leouieda/python-hawaii-2017), serta Lisa Itauxe [Python for ES Student](https://github.com/ltauxe/Python-for-Earth-Science-Students) berikut ini.
 
