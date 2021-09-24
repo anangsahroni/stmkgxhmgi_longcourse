@@ -8,3 +8,4 @@ dependencies:
   - obspy
   - rasterio
   - tqdm
+  - ipympl
