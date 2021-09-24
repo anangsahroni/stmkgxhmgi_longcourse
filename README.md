@@ -67,7 +67,8 @@ Laptop ataupun *Personal Computer* (PC) yang terkoneksi dengan internet.
 | **EXERCISE:** Membaca file titik stasiun, memfilter berdasarkan network, dan mengeplotnya bersama dengan titik-titik gempa. |
 ||
 | **SESI 2: 25 September 2021** |
-| *[Source Mechanism and processing seismic data with python : Determine earthquake epicenter, hypocenter, and type of P Wave]*|
+| *Source Mechanism and processing seismic data with python : Determine earthquake epicenter, hypocenter, and type of P Wave*|
+| Jika menggunakan komputer lokal silahkan install modul yang dibutuhkan pada sesi dua dengan cara: `conda install -c conda-forge xarray rasterio tqdm`|
 | 1. Menentukan episenter dengan metode lingkaran [Materi](https://nbviewer.jupyter.org/github/anangsahroni/stmkgxhmgi_longcourse/blob/main/2_Earthquake_Source_Simple_1.ipynb)|
 | 2. Menentukan hiposenter dengan metode Geiger dan probabilistik [Materi 1](https://nbviewer.jupyter.org/github/anangsahroni/stmkgxhmgi_longcourse/blob/main/2_Earthquake_Source_Simple_2_1.ipynb), [Materi 2](https://nbviewer.jupyter.org/github/anangsahroni/stmkgxhmgi_longcourse/blob/main/2_Earthquake_Source_Simple_2_2.ipynb)|
 | 3. Pengenalan pengolahan waveform dengan `obspy` [Materi](https://nbviewer.jupyter.org/github/anangsahroni/stmkgxhmgi_longcourse/blob/main/2_Earthquake_Source_Simple_3.ipynb)|
