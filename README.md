@@ -28,7 +28,8 @@ Memberikan wawasan kepada mahasiswa Geofisika dalam pengolahan data Geofisika: p
 4. Peserta dapat menentukan parameter gempa menggunakan metode yang sederhana pada Python memanfaatkan modul seismologi seperti `obspy`
 
 ## Peralatan untuk peserta
-Laptop ataupun *Personal Computer* (PC) yang terkoneksi dengan internet.
+Laptop ataupun *Personal Computer* (PC) yang terkoneksi dengan internet.  
+Jika hendak menjalankan kode tanpa instalasi bisa melalui: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anangsahroni/stmkgxhmgi_longcourse/HEAD)
 
 ## Data:
 1. [Katalog Gempa Bumi](https://github.com/anangsahroni/geoscope-geohazard-workshop/blob/main/data/demo_data_BMKG_Mamuju.csv) Badan Meteorologi Klimatologi dan Geofisika (BMKG)
