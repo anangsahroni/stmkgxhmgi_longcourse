@@ -1,6 +1,7 @@
 ![header_image](./figures/longcourse_header_cropped_sm.png)
 # Long Course
 ## *"Geophysical Python for Seismic Data Analysis"*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5758361.svg)](https://doi.org/10.5281/zenodo.5758361)
 
 **Instruktur:**
 Dr.rer.nat. Wiwit Suryanto, M.Si
